@@ -1,0 +1,94 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJbRknSbtYI9QwfLbZ0AEUht1ZgkuAPe9N0gW6-3TZmI5P2weWHBuYvKbHlLYHFoeLR8&usqp=CAU') ;
+  background-size:cover;
+  background-position:center;
+  background-repeat: no-repeat;
+}
+
+.title {
+  text-align: center;
+  width: 100%;
+  background-color: rgb(190, 164, 214);
+  padding: 2rem;
+  border-radius: 10px 10px 0 0;
+  font-size: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 500px;
+  padding: 2rem;
+  background-color: rgb(37, 193, 214);
+  border-radius: 0 0 10px 10px;
+  opacity: 0.8;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+label {
+  font-size: 1.2rem;
+  padding: 0.6rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  color: #4600a9;
+}
+
+input {
+  border: none;
+  border-radius: 10px;
+  padding: 1rem;
+  outline: none;
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.submit-button {
+ 
+  background-color: #0077cc;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+input[type=submit]:hover {
+  background-color: #4600a9;
+  background-image: linear-gradient(to bottom, #006699, #004466);
+  cursor:pointer;
+}
+.error-message {
+  color: red;
+  font-size: 1rem;
+  text-align: left;
+  margin-top: 0.5rem;
+}
+
+body{
+  background-image:url('https://cfi.iitm.ac.in/static/media/ProductDesignLogo.edcead7e.png') ;
+  background-position: top left;
+  background-size: auto;
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "deploy": "^1.0.3",
+    "react-hook-form": "^7.43.9"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
