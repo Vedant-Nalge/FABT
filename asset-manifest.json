@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vedant-nalge.github.io/FABT/static/css/main.16500557.css",
-    "main.js": "/vedant-nalge.github.io/FABT/static/js/main.aafd1b5d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/vedant-nalge.github.io/FABT/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/vedant-nalge.github.io/FABT/index.html",
-    "main.16500557.css.map": "/vedant-nalge.github.io/FABT/static/css/main.16500557.css.map",
-    "main.aafd1b5d.js.map": "/vedant-nalge.github.io/FABT/static/js/main.aafd1b5d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/vedant-nalge.github.io/FABT/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/FABT/static/css/main.16500557.css",
+    "main.js": "/FABT/static/js/main.ba00fe6b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FABT/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/FABT/index.html",
+    "main.16500557.css.map": "/FABT/static/css/main.16500557.css.map",
+    "main.ba00fe6b.js.map": "/FABT/static/js/main.ba00fe6b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FABT/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16500557.css",
-    "static/js/main.aafd1b5d.js"
+    "static/js/main.ba00fe6b.js"
   ]
 }
